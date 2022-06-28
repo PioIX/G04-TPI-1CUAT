@@ -33,10 +33,10 @@ Tareas <br/>
 
 
 Reponsabilidades <br/>
-Mareco:2.5 <br/>
-Parodi:3.6 <br/>
+Mareco: 2.5 <br/>
+Parodi: 3.6 <br/>
 Taito: 1.6.7 <br/>
-Vazquez:2.4 <br/>
+Vazquez: 2.4 <br/>
 
 Primer entregable (30/6)
 
