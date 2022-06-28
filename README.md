@@ -23,20 +23,20 @@ Puntaje acumulable <br/>
 Tiempo transcurrido <br/>
 
 Tareas <br/>
-Investigación y redacción de preguntas y sus respuestas <br/>
-Diseño de imagen y de la UI <br/>
-Diseño de la base de datos <br/>
-Funciones de interacción con la base (API, Flask) <br/>
-Front-end del juego (HTML, CSS, JS) <br/>
-Testeo <br/>
-Puesta en producción <br/>
+1.Investigación y redacción de preguntas y sus respuestas: <br/>
+2.Diseño de imagen y de la UI: <br/> 
+3.Diseño de la base de datos: <br/>
+4.Funciones de interacción con la base: (API, Flask) <br/>
+5.Front-end del juego: (HTML, CSS, JS) <br/>
+6.Testeo: <br/>
+7.Puesta en producción: <br/>
 
 
 Reponsabilidades <br/>
-Mareco <br/>
-Parodi <br/>
-Taito <br/>
-Vazquez <br/>
+Mareco:2.5 <br/>
+Parodi:3.6 <br/>
+Taito: 1.6.7 <br/>
+Vazquez:2.4 <br/>
 
 Primer entregable (30/6)
 
