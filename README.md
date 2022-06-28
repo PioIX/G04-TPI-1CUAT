@@ -23,13 +23,13 @@ Puntaje acumulable <br/>
 Tiempo transcurrido <br/>
 
 Tareas <br/>
-1.Investigación y redacción de preguntas y sus respuestas: <br/>
-2.Diseño de imagen y de la UI: <br/> 
-3.Diseño de la base de datos: <br/>
-4.Funciones de interacción con la base: (API, Flask) <br/>
-5.Front-end del juego: (HTML, CSS, JS) <br/>
-6.Testeo: <br/>
-7.Puesta en producción: <br/>
+1.Investigación y redacción de preguntas y sus respuestas<br/>
+2.Diseño de imagen y de la UI<br/> 
+3.Diseño de la base de datos<br/>
+4.Funciones de interacción con la base(API, Flask) <br/>
+5.Front-end del juego (HTML, CSS, JS) <br/>
+6.Testeo <br/>
+7.Puesta en producción <br/>
 
 
 Reponsabilidades <br/>
