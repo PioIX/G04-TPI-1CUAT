@@ -22,6 +22,25 @@ Funcionalidad <br/>
 - Puntaje acumulable <br/>
 - Tiempo transcurrido <br/>
 
+Afirmaciones que se le van a plantear al jugador y si son correctas o no. <br/>
+- El organismo responsable de las metas priorizadas de la ODS 5
+es el Ministerio de las Mujeres, Géneros y Diversidad. correcta
+- La meta principal del ODS 5 es evitar la violencia y discriminación de género en cualquier ámbito. incorrecta
+La meta principal del ODS 5 es lograr la igualdad de todos los géneros y empoderar a todas las mujeres y las niñas.
+- El Programa igualar propone dar charlas en distintos espacios públicos para dar a entender sobre el propósito de la ODS 5 y 
+concientizar sobre la igualdad de género planteada por este objetivo. incorrecta
+El Programa igualar tiene como fin reducir las separaciones y grietas estructurales de género que existen en el mundo del trabajo, el empleo y la producción desde una mirada interseccional y de derechos humanos. 
+- Uno de los conflictos que enfrentan las mujeres y las niñas diaramente que reconoce y plantea la ODS 5 es la dificultad  para acceder a la tierra, la tecnología, los mercados, la infraestructura y los servicios. correcta
+- La campaña nacional "cuidar en igualdad" reúne a 14 organismos del poder ejecutivo nacional para debatir y planificar políticas que aporten a una redistribución entre géneros y que aporten a reconocer el cuidado como una necesidad, como un trabajo y como un derecho. incorrecta
+La campaña nacional "cuidar en igualdad" involucra al Estado y lo obliga a crear políticas públicas para que los trabajos de cuidado, históricamente considerados del ámbito privado y femeninos, sean públicos y de todos los géneros.
+- La Meta 5.1 la cual busca "darle un fin a todas las formas de discriminación contra todas las mujeres, niñas, niños y niñes LGBTI+ garantizando la igualdad de oportunidades en todo el mundo" es una meta adaptada recientemente. correcta
+- El programa producir fue hecho para la prestación económica, asistencia psicológica y asesoramiento legal a las mujeres. incorrecta
+El programa producir busca crear o fortalecer proyectos productivos de todo el país, llevados adelante por organizaciones comunitarias en las que participan mujeres y LGBTI+ que estén experimentando o hayan experimentado violencia de género.
+- La meta 5.4 la cual busca "reconocer y valorar los cuidados y el trabajo doméstico no remunerados mediante servicios públicos, infraestructuras y políticas de protección social y promoviendo la responsabilidad compartida en el hogar y la familia, según proceda el país" todavía no fue adaptada. correcta
+- Uno de los motivos por los que se quiere implementar el programa igualar
+es por la escasez de ingresos debido a la gran cantidad de tiempo dedicada a las tareas domésticas. incorrecta
+Uno de los motivos por los que se quiere implementar el programa igualar es por los problemas de permanencia en el mundo laboral.
+
 Tareas <br/>
 1. Investigación y redacción de preguntas y sus respuestas<br/>
 2. Diseño de imagen y de la UI<br/> 
