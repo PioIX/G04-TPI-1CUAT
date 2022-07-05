@@ -34,8 +34,8 @@ Tareas <br/>
 Reponsabilidades <br/>
 1. Mareco: 2.5 <br/>
 2. Parodi: 3.6.7 <br/>
-3. Taito: 1.3.6 <br/>
-4. Vazquez: 2.4.7 <br/>
+3. Taito: 1.6.3 <br/>
+4. Vazquez: 2.4 <br/>
 
 Primer entregable (30/6)
 - Estructura de la base de datos<br/>
