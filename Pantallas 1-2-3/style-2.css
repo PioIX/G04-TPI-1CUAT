@@ -1,0 +1,118 @@
+body {
+  font-family: sans-serif;
+  margin-left:15%;
+}
+
+.container {
+  background-color: #dddddd;
+  padding: 40px;
+  margin: auto;
+  width: 1110px;
+  height: 820px;
+  position: absolute;
+}
+
+h1 {
+  font-size: 370%;
+  margin-top: 100px;
+  margin-left: 310px;
+  position: absolute;
+  z-index: 1;  
+}
+
+.titulo {
+  background-color: #f9b4ab;
+  padding: 40px;
+  margin: auto 0px;
+  margin-top: 15px;
+  width: 1110px;
+  height: 150px;
+  position: absolute;
+}
+
+h2 {
+  font-size: 300%;
+  margin: auto 180px;
+  margin-top: 300px;
+  position: absolute;
+  z-index: 1;
+  color:#515151;
+}
+
+.btn-incorrecto{
+  background-color: #FF0000;
+  border: none;
+  color: white;
+  padding: 30px 150px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  border-radius: 10px;
+  margin: auto;
+  margin-top: 420px;
+  margin-left: 400px;
+  position: absolute;
+}
+
+.afirmacion {
+  background-color: #fdebd3;
+  padding: 40px;
+  margin: auto;
+  margin-top: 260px;
+  width: 1110px;
+  height: 60px;
+  position: absolute;
+}
+
+.fundamentacion {
+  background-color: #679186;
+  padding: 40px;
+  margin: auto;
+  margin-top: 520px;
+  width: 1110px;
+  height: 30px;
+  position: absolute;
+}
+p {
+  margin: auto 15px;
+  position: absolute;
+  z-index: 1;
+  line-height: 30px;
+}
+
+.puntaje {
+  background-color:white;
+  border: 1px solid black;
+  padding: 40px;
+  margin-top: 660px;
+  margin-left:475px;
+  width: 150px;
+  height: 30px;
+  position: absolute;
+}
+
+.btn-siguiente{
+  background-color: white;
+  color: black;
+  border: 1px solid black;
+  padding: 5px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  border-radius: 5px;
+  margin: auto;
+  margin-top: 850px;
+  margin-left: 1000px;
+  position: absolute;
+}
+
+
+
+
+
+
+
+
+
