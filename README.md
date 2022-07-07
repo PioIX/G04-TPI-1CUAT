@@ -24,7 +24,7 @@ Funcionalidad <br/>
 
 Nociones generales <br/>
 El Objetivo 5 busca ponerle un fin a cualquier manera de discriminación o violencia contra todas las mujeres y las niñas.
-La Agenda 2030 reconoce que las mujeres y las niñas son sujetos de discriminación y violencia en todos los lugares del mundo. La igualdad entre los géneros no es solo un derecho humano fundamental, sino la base para conseguir un mundo próspero y sostenible. Este ODS es fundamental para las mujeres jóvenes y niñas, ya que al igual que cualquier persona, les corresponde la facilidad del acceso a la educación; al trabajo, atención médica y a las decisiones políticas y económicas.
+La Agenda 2030 reconoce que las mujeres y las niñas son sujetos de discriminación y violencia en todos los lugares del mundo. La igualdad entre los géneros no es solo un derecho humano fundamental, sino la base para conseguir un mundo próspero y sostenible. Este ODS es fundamental para las mujeres jóvenes y niñas, ya que al igual que cualquier persona, les corresponde la facilidad del acceso a la educación; al trabajo, atención médica y a las decisiones políticas y económicas. Para  lograr este objetivo, es necesario modificar las leyes discriminatorias y adoptar otras que promuevan activamente la igualdad.
 
 Afirmaciones que se le van a plantear al jugador y si son correctas o no. <br/>
 - El organismo responsable de las metas priorizadas de la ODS 5
