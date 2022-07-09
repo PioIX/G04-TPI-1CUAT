@@ -20,11 +20,15 @@ Nombre y diagrama de las bases de datos:
 
 ![Diagrama bases de datos ODS proyecto](https://user-images.githubusercontent.com/100931968/177585734-482e6ad5-19df-4534-9c3c-2a852a0ab8f8.png)
 
-Tabla de afirmaciones:
+Tabla de las afirmaciones:
+
 ![Afirmaciones ODS](https://user-images.githubusercontent.com/100931968/178121525-77e71136-f0d0-49bf-ae82-a3e181a5f0d9.jpg)
 
 Tabla de las respuestas:
+
 ![Respuestas ODS](https://user-images.githubusercontent.com/100931968/178121535-d6026674-ff87-4518-b1f3-55ba183f409e.jpg)
+
+NOTA: En total van a ser 24 afirmaciones, pero por ahora en la tabla usamos 9.
 
 Funcionalidad <br/>
 - Único jugador <br/>
