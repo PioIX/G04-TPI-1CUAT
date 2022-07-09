@@ -19,9 +19,12 @@ Boceto de la idea:
 Nombre y diagrama de las bases de datos:
 
 ![Diagrama bases de datos ODS proyecto](https://user-images.githubusercontent.com/100931968/177585734-482e6ad5-19df-4534-9c3c-2a852a0ab8f8.png)
-![Tabla bases de datos afirmaciones ODS](https://user-images.githubusercontent.com/100931968/177585849-f1787b10-6548-4976-a141-2727d9890568.png)
-![Tabla bases de datos respuestas ods](https://user-images.githubusercontent.com/100931968/177585864-d20abde0-9987-4082-b820-b5e6fbe6b2d5.png)
 
+Tabla de afirmaciones:
+![Afirmaciones ODS](https://user-images.githubusercontent.com/100931968/178121525-77e71136-f0d0-49bf-ae82-a3e181a5f0d9.jpg)
+
+Tabla de las respuestas:
+![Respuestas ODS](https://user-images.githubusercontent.com/100931968/178121535-d6026674-ff87-4518-b1f3-55ba183f409e.jpg)
 
 Funcionalidad <br/>
 - Único jugador <br/>
