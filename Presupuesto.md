@@ -2,8 +2,6 @@ Boceto de la idea:
 
 ![Boceto](https://user-images.githubusercontent.com/100932704/175573120-eaf5c856-8a73-48f9-a44b-be86ff9d837e.jpg)
 
-[Preguntas](https://github.com/PioIX/G04-TPI-1CUAT/blob/396f263e17c63c2713e1721736a63325de31b6c5/Preguntas.md "Preguntas")
-
 Funcionalidad <br/>
 - Único jugador <br/>
 - Una ronda con 12 afirmaciones <br/>
