@@ -27,16 +27,13 @@ El Objetivo 5 busca ponerle un fin a cualquier manera de discriminación o viole
 La Agenda 2030 reconoce que las mujeres y las niñas son sujetos de discriminación y violencia en todos los lugares del mundo. La igualdad entre los géneros no es solo un derecho humano fundamental, sino la base para conseguir un mundo próspero y sostenible. Este ODS es fundamental para las mujeres jóvenes y niñas, ya que al igual que cualquier persona, les corresponde la facilidad del acceso a la educación; al trabajo, atención médica y a las decisiones políticas y económicas. Para  lograr este objetivo, es necesario modificar las leyes discriminatorias y adoptar otras que promuevan activamente la igualdad.
 
 Afirmaciones que se le van a plantear al jugador y si son correctas o no. <br/>
+- Mayormente, las mujeres y/o niñas víctimas de violencia de género tienen entre  15 y 60 años. correcta
 - 40% de los trabajadores en el sector sanitario y social son mujeres. incorrecta
 70% de los trabajadores en el sector sanitario y social son mujeres.
-- Mayormente, las mujeres y/o niñas víctimas de violencia de género tienen entre  15 y 60 años. correcta
-- 
-- El organismo responsable de las metas priorizadas de la ODS 5
-es el Ministerio de las Mujeres, Géneros y Diversidad. correcta
 - La meta principal del ODS 5 es evitar la violencia y discriminación de género en cualquier ámbito. incorrecta
 La meta principal del ODS 5 es lograr la igualdad de todos los géneros y empoderar a todas las mujeres y las niñas.
-- El Programa igualar propone dar charlas en distintos espacios públicos para dar a entender sobre el propósito de la ODS 5 y 
-concientizar sobre la igualdad de género planteada por este objetivo. incorrecta
+- El organismo responsable de las metas priorizadas de la ODS 5 es el Ministerio de las Mujeres, Géneros y Diversidad. correcta
+- El Programa igualar propone dar charlas en distintos espacios públicos para dar a entender sobre el propósito de la ODS 5 y concientizar sobre la igualdad de género planteada por este objetivo. incorrecta
 El Programa igualar tiene como fin reducir las separaciones y grietas estructurales de género que existen en el mundo del trabajo, el empleo y la producción desde una mirada interseccional y de derechos humanos. 
 - Uno de los conflictos que enfrentan las mujeres y las niñas diaramente que reconoce y plantea la ODS 5 es la dificultad  para acceder a la tierra, la tecnología, los mercados, la infraestructura y los servicios. correcta
 - La campaña nacional "cuidar en igualdad" reúne a 14 organismos del poder ejecutivo nacional para debatir y planificar políticas que aporten a una redistribución entre géneros y que aporten a reconocer el cuidado como una necesidad, como un trabajo y como un derecho. incorrecta
