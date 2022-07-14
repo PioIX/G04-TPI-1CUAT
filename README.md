@@ -17,7 +17,9 @@ Para ello vamos a crear un juego de verdadero o falso con 12 afirmaciones y cada
 
 [Preguntas](https://github.com/PioIX/G04-TPI-1CUAT/blob/396f263e17c63c2713e1721736a63325de31b6c5/Preguntas.md) <br/>
 [Presupuesto](https://github.com/PioIX/G04-TPI-1CUAT/blob/87e63d234e1c988918586f3fc07d7791ab994fe8/Presupuesto.md)<br/>
-[App de Flask](https://github.com/PioIX/replit_grupo04)
+[App de Flask](https://github.com/PioIX/replit_grupo04)<br/>
+
+Índice:
 
 Primer entregable (30/6)
 - Estructura de la base de datos<br/>
