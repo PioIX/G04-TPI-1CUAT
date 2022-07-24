@@ -46,7 +46,7 @@ ___
 
 ___  
 
-# Reponsabilidades <br/>
+# Responsabilidades <br/>
 1. Mareco: 2.5 <br/>
 2. Parodi: 3.6.7 <br/>
 3. Taito: 1.6.3 <br/>
