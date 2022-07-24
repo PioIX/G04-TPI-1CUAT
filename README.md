@@ -7,7 +7,7 @@ División: 5B Informática
 - Candela Taito<br/>
 - Julieta Vazquez<br/>
 ___ 
-### Verdadero o falso sobre el ODS de Igualdad de género y el empoderamiento de la mujer (ODS 5)<br/>
+# Verdadero o falso sobre el ODS de Igualdad de género y el empoderamiento de la mujer (ODS 5)<br/>
 
 ___ 
 
