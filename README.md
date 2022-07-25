@@ -18,7 +18,10 @@ Para ello vamos a crear un juego de verdadero o falso con 12 afirmaciones y cada
 - [Presupuesto](https://github.com/PioIX/G04-TPI-1CUAT/blob/87e63d234e1c988918586f3fc07d7791ab994fe8/Presupuesto.md)   
 - [App de Flask](https://github.com/PioIX/replit_grupo04)   
 - [Base de datos](https://github.com/PioIX/G04-TPI-1CUAT/tree/main/Base%20de%20datos)  
-- [Afirmaciones](https://github.com/PioIX/G04-TPI-1CUAT/blob/main/Afirmaciones.md)
+- [Afirmaciones](https://github.com/PioIX/G04-TPI-1CUAT/blob/main/Afirmaciones.md)  
+- [Archivos](https://github.com/PioIX/G04-TPI-1CUAT/tree/main/Maquetaci%C3%B3n%20del%20boceto)  
+- [Bibliografía](https://github.com/PioIX/G04-TPI-1CUAT/blob/main/Bibliograf%C3%ADa.md)
+
 
 
 
