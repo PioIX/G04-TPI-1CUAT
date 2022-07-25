@@ -1,1 +1,12 @@
 ## Links de la información utilizada:
+- https://www.un.org/sustainabledevelopment/es/gender-equality/0  
+- https://www.cepal.org/sites/default/files/static/files/ods5_c1900675_web.pdf  
+- https://www.gob.mx/imjuve/es/articulos/ods-5-igualdad-de-genero?idiom=es  
+- https://onuhabitat.org.mx/index.php/test-cuanto-sabes-sobre-desarrollo-sostenible-y-ciudades  
+- https://es.surveymonkey.com/r/RTDBXWD  
+- https://estrategia2030.es/objetivo-5-igualdad-de-genero/  
+- https://www.ucm.es/agenda2030/ods-5-  
+- https://www.mutuabalear.es/es/ods-05  
+- https://patrimonioactual.com/page/objetivo-desarrollo-sostenible-ods-5-lograr-la-igualdad-entre-los-generos-y-empoderar-a-todas-las-mujeres-y-las-ninas/  
+- https://www.pactomundial.org/noticia/como-han-avanzado-los-ods-en-sus-primeros-5-anos-de-vida/   
+- https://agenda2030lac.org/es/ods/5-igualdad-de-genero   
