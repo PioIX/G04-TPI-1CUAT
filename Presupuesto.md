@@ -1,4 +1,4 @@
-# Boceto de la idea:
+# Boceto de la idea
 
 ![Boceto](https://user-images.githubusercontent.com/100932704/175573120-eaf5c856-8a73-48f9-a44b-be86ff9d837e.jpg)
 
