@@ -1,5 +1,5 @@
 #  Trabajo integrador interdisciplinario Grupo N°04
-División: 5B Informática.
+División: 5B Informática
 
 ### Integrantes:  
 - Iara Mareco  
