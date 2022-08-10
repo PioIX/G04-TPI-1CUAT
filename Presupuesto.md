@@ -30,7 +30,8 @@ ___
 ___  
 
 # Nociones generales <br/>
-El Objetivo 5 busca ponerle un fin a cualquier manera de discriminación o violencia contra todas las mujeres y las niñas.
+La Agenda 2030 es una visión hacia la sostenibilidad económica, social y ambiental de los 193 miembros de las Naciones Unidas y es la guía de referencia para el trabajo de todo el mundo hasta el año 2030. Es “un plan de acción a favor de las personas, el planeta y la prosperidad, que también tiene la intención de fortalecer la paz universal y el acceso a la justicia”, según el sitio oficial de las Naciones Unidas. Se acordaron 17 objetivos para este plazo de tiempo luego de dos años de consultas públicas y negociaciones entre los países. Son importantes ya que se plantaron para solucionar la mayor cantidad de problemáticas a nivel global. La misma ONU tiene guías sobre cómo cada uno de nosotros podemos ayudar.
+Para este proyecto vamos a trabajar con el Objetivo 5 el cual busca ponerle un fin a cualquier manera de discriminación o violencia contra todas las mujeres y las niñas.
 La Agenda 2030 reconoce que las mujeres y las niñas son sujetos de discriminación y violencia en todos los lugares del mundo. La igualdad entre los géneros no es solo un derecho humano fundamental, sino la base para conseguir un mundo próspero y sostenible. Este ODS es fundamental para las mujeres jóvenes y niñas, ya que al igual que cualquier persona, les corresponde la facilidad del acceso a la educación; al trabajo, atención médica y a las decisiones políticas y económicas. Para  lograr este objetivo, es necesario modificar las leyes discriminatorias y adoptar otras que promuevan activamente la igualdad.
 
 ___  
