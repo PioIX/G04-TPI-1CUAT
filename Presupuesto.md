@@ -7,7 +7,9 @@ ___
 # Base de datos
 Nombre y diagrama de las bases de datos:
 
-![Diagrama bases de datos ODS proyecto](https://user-images.githubusercontent.com/100931968/177585734-482e6ad5-19df-4534-9c3c-2a852a0ab8f8.png)
+![Afirmaciones tabla ](https://user-images.githubusercontent.com/100931968/184366724-5af954e9-05f2-4648-997f-e06abe8dcd44.jpg)
+
+
 
 Tabla de las afirmaciones:
 
