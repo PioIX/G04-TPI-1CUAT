@@ -11,13 +11,8 @@ Nombre y diagrama de las bases de datos:
 
 Tabla de las afirmaciones:
 
-![Afirmaciones ODS](https://user-images.githubusercontent.com/100931968/178121525-77e71136-f0d0-49bf-ae82-a3e181a5f0d9.jpg)
+![Afirmaciones tabla ](https://user-images.githubusercontent.com/100931968/184365542-9268f0c8-a69f-430c-8232-e7e58da5a997.jpg)
 
-Tabla de las respuestas:
-
-![Respuestas ODS](https://user-images.githubusercontent.com/100931968/178121535-d6026674-ff87-4518-b1f3-55ba183f409e.jpg)
-
-NOTA: En total van a ser 24 afirmaciones, pero por ahora en la tabla usamos 9.  
 
 ___  
 
