@@ -7,7 +7,8 @@ ___
 # Base de datos
 Nombre y diagrama de las bases de datos:
 
-![Afirmaciones tabla ](https://user-images.githubusercontent.com/100931968/184366724-5af954e9-05f2-4648-997f-e06abe8dcd44.jpg)
+![Diagrama afirmaciones ](https://user-images.githubusercontent.com/100931968/184366849-ac0cb58f-aa56-46ee-b2d6-7baba8675fc6.png)
+
 
 
 
