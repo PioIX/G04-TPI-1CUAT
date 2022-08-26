@@ -21,7 +21,7 @@ Para ello vamos a crear un juego de verdadero o falso con 24 afirmaciones. En pr
 - [Afirmaciones](https://github.com/PioIX/G04-TPI-1CUAT/blob/main/Afirmaciones.md)  
 - [Archivos](https://github.com/PioIX/G04-TPI-1CUAT/tree/main/Maquetaci%C3%B3n%20del%20boceto)  
 - [Bibliografía](https://github.com/PioIX/G04-TPI-1CUAT/blob/main/Bibliograf%C3%ADa.md)
--[Link de pythonanywhere](https://julivazquez.pythonanywhere.com)
+- [Link de pythonanywhere](https://julivazquez.pythonanywhere.com)
 
 
 
