@@ -21,7 +21,7 @@ ___
 
 # Funcionalidad <br/>
 - Único jugador <br/>
-- Una ronda con 12 afirmaciones <br/>
+- Una ronda con 24 afirmaciones <br/>
 - Puntaje acumulable <br/>
 - Tiempo transcurrido <br/>
 
